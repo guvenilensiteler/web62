@@ -338,43 +338,43 @@
         "sites": [
           {
             "site": "palazzobet",
-            "sort": "0"
-          },
-          {
-            "site": "grandpashabet",
             "sort": "1"
           },
           {
-            "site": "maxwin",
+            "site": "grandpashabet",
             "sort": "2"
           },
           {
-            "site": "ramadabet",
+            "site": "amgbahis",
             "sort": "3"
           },
           {
-            "site": "damabet",
+            "site": "mersobahis",
             "sort": "4"
           },
           {
-            "site": "dedebet",
+            "site": "maxwin",
             "sort": "5"
           },
           {
-            "site": "amgbahis",
+            "site": "ramadabet",
             "sort": "6"
           },
           {
-            "site": "mersobahis",
+            "site": "damabet",
             "sort": "7"
           },
           {
-            "site": "betwoon",
+            "site": "dedebet",
             "sort": "8"
           },
           {
-            "site": "marsbahis",
+            "site": "betwoon",
             "sort": "9"
+          },
+          {
+            "site": "marsbahis",
+            "sort": "10"
           }
         ]
       },
