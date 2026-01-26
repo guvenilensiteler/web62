@@ -1,1 +1,1 @@
-pro.guvenilensitelergir.com
+pro.guvenlisitelerim.com
